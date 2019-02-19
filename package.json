@@ -1,0 +1,20 @@
+{
+  "name": "fractal-structure-expressjs",
+  "version": "1.0.0",
+  "description": "The node.js structure using fractal structure with express.js framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grayfmrcl/fractal-structure-expressjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grayfmrcl/fractal-structure-expressjs/issues"
+  },
+  "homepage": "https://github.com/grayfmrcl/fractal-structure-expressjs#readme"
+}

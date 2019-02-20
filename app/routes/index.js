@@ -1,11 +1,11 @@
 const app = require('express')();
 
 app.get('/', (req, res) => {
-  res.send({ message: 'Hello world!' });
+  res.json({ message: 'Hello world!' });
 });
 
 app.all('*', (req, res) => {
-  res.status(404).send({ message: 'Not found.' });
+  res.status(404).json({ message: 'Not found.' });
 });
 
 module.exports = app;

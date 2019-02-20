@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/grayfmrcl/fractal-structure-expressjs#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "nconf": "^0.10.0"
   }
 }
